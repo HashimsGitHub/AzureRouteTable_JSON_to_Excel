@@ -1,3 +1,3 @@
-# 🎈Azure NSG (Network Security Group) rules - JSON to Excel converter
+# 🎈Azure Route Table - JSON to Excel converter
 
-http://azure-nsg-json2excel.streamlit.app
+[http://azure-nsg-json2excel.streamlit.app](http://azure-rt-json2excel.streamlit.app)
